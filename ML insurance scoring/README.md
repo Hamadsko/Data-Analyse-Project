@@ -70,5 +70,7 @@ hdetvo  | Emprunt voiture  | hevO hevN
 
 ### Il y a plusierus dossiers pour mener à bien cette étude:
 📂Data => qui comporte la base de donnée
-📂Noebooks=> qui comporte un notebook synthétique (main_insurance_scoring) et un notebook détaillé (Insurance_scoring)
+
+📂Notebooks=> qui comporte un notebook synthétique (main_insurance_scoring)
+
 📂Scripts=> qui comporte deux pipelines définis par des class où sont catégorisés des variables
