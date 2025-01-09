@@ -22,7 +22,7 @@ Cette deuxième capture quant à elle classifie les actes criminels les plus obs
 
 ## Data/Résultats
 Les données représentant plus de 8 000 000 d'observations, j'ai extrait via une requête sur big query de manière random 10 000 observations que vous retrouverez dans 'Data'.
-Par la suite j'ai créer une table 'Crime' par le biais de ce fichier csv afin de pouvoir requêter directement dans vscode.
+Par la suite j'ai créer une table 'Crime' par le biais de ce fichier csv afin de pouvoir requêter directement dans VSCODE.
 
 Pour executer en command et extraire le resultat:
 se mettre dans le directory parent
