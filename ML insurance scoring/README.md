@@ -68,7 +68,7 @@ hdetvo  | Emprunt voiture  | hevO hevN
 
 **Le label qu'on cherche à estimer est le paramètre Asvi (ou AsviR) : a-t-on souscrit ou non à une assurance-vie ?**.
 
-## Comparaison des models
+## Comparaison des modèles
 L'un des résultats que nous pouvons observer est que chacun de ces modèles s'équivaut en termes de score de performance.
 Pour la régression logistique et le random forest, les modèles sont capables de classer correctement les vrais positifs avec une probabilité de 71% supérieure à un modèle aléatoire
 
