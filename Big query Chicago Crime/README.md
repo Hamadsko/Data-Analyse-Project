@@ -11,7 +11,7 @@ L'objectif de ce projet est à deux volets :
 
 
 ## Data Visualisation
-Voici deux exemples de capture de Looker studio 
+Voici deux exemples de capture issue de Looker studio 
 
 Cette première capture illustre par expemples les régions les plus impactées par la criminalité en 2022
 ![alt text](<Data visualization/Crimes_regions_2022.png>)
