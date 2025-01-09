@@ -69,8 +69,8 @@ hdetvo  | Emprunt voiture  | hevO hevN
 **Le label qu'on cherche à estimer est le paramètre Asvi (ou AsviR) : a-t-on souscrit ou non à une assurance-vie ?**.
 
 ### Il y a plusierus dossiers pour mener à bien cette étude:
-📂Data => qui comporte la base de donnée
+📂Data => comporte la base de donnée
 
-📂Notebooks=> qui comporte un notebook synthétique (main_insurance_scoring)
+📂Notebooks=> comporte un notebook synthétique (main_insurance_scoring)
 
-📂Scripts=> qui comporte deux pipelines définis par des class où sont catégorisés des variables
+📂Scripts=> comporte deux pipelines définis par des class où sont catégorisés des variables
