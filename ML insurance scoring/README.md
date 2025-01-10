@@ -72,7 +72,7 @@ hdetvo  | Emprunt voiture  | hevO hevN
 L'un des résultats que nous pouvons observer est que chacun de ces modèles s'équivaut en termes de score de performance.
 Pour la régression logistique et le random forest, les modèles sont capables de classer correctement les vrais positifs avec une probabilité de 71% supérieure à un modèle aléatoire
 
-![alt text](Courbe_roc.png)
+![alt text](output/Courbe_roc.png)
 
 Une AUC de 0,71 est généralement un bon début, mais il peut être utile d'explorer davantage les paramètres du modèle, d'améliorer les caractéristiques, ou d'essayer d'autres modèles pour obtenir une meilleure performance
 
