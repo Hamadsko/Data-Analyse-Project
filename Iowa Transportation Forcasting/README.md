@@ -40,7 +40,7 @@ Le but principal est d'utiliser les données historiques de transport pour modé
 ## Visualisation
 Le graphique final permet de comparer les valeurs historiques et prédites en fonction des dates, offrant une validation visuelle de la performance du modèle.
 
-![alt text](../Iowa_sales_forecasting.png)
+![alt text](Output/Iowa_sales_forecasting.png)
 
 ## Instructions pour exécuter le projet
 1. Installer les dépendances nécessaires :
